@@ -1,0 +1,10 @@
+
+# dependencies
+/node_modules
+
+# Intellij Idea files
+.idea
+
+# next.js
+/.next/
+/out/
