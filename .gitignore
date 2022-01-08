@@ -1,10 +1,13 @@
 
 # dependencies
-/node_modules
+/node_modules/
 
 # Intellij Idea files
-.idea
+/.idea/
 
 # next.js
 /.next/
 /out/
+
+# production
+/build/
